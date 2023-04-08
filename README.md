@@ -78,5 +78,5 @@ To run the project, follow these steps:
 - [x] Clone this repository to your local machine.
 - [x] Install the dependencies listed above.
 - [x] Open a terminal and navigate to the project directory.
-- [x] Run the fake_currency_detection.ipynb Jupyter notebook to train and evaluate the machine learning model.
+- [x] Run the model.ipynb and then run the implementation.ipynb.
 
