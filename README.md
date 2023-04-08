@@ -3,7 +3,7 @@
 ![image](https://upload.wikimedia.org/wikipedia/en/1/18/Will_Smith_slaps_Chris_Rock.jpg)
 
 # Inspiration <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/inspiration.png" width="60" height="60"> 
-Machine learning is evloving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
+Machine learning is evolving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
 
 # Methodology  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/solution.png" width="60" height="60">  
 
