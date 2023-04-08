@@ -45,6 +45,9 @@ Train the customized model on the pre-processed dataset. The model should have m
 oneAPI is an open, unified programming model developed by Intel that simplifies development of high-performance applications across different hardware architectures. It provides a single cross-architecture programming model based on industry standards like C++ and SYCL, and includes a set of programming tools and libraries such as compilers, performance libraries, and analysis tools. oneAPI can be applied to various industries including HPC, AI/ML, media and entertainment, finance, and healthcare, where high-performance computing and parallel processing are needed.
 
 # Result
+![image](https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/output.png)
+
+![image](https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/output2.png)
 
 # Conclusion <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/idea.png" width="60" height="60"> 
 
