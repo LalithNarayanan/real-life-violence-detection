@@ -1,16 +1,16 @@
 # real-life-violence-detection
-# Introduction  <img src="(https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">
+# Introduction   <img src="[https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Ffantasy%2F&psig=AOvVaw2ZRSpfpOgrV0lKaO49k8vk&ust=1681019028821000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiRwIPKmf4CFQAAAAAdAAAAABAE)" width="60" height="60">
 
 Machine learning is evloving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
 
 
-# DataSet  <img src="(https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">
+# DataSet  <img src="https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">
 
 The dataset used in this project is the ‘Real Life Violence Situations Dataset’  from the Kaggle Repository published by Mohamed Elesawy.
 It contains 1000 Violence and 1000 non-violence videos collected from youtube videos, which includes many real street fights situations in several environments and conditions.
 
 
-# Methodology  <img src="(https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">
+# Methodology  <img src="https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">
 
 We will use a convolutional neural network (CNN) to classify videos as violent or non-violent. We will preprocess the videos by extracting frames and resizing them to a fixed size. We will then train the CNN on these frames.
 
@@ -22,11 +22,11 @@ Data pre-processing: Convert the videos to a suitable format and resize them to 
 
 Selecting a pre-trained model: Choose a pre-trained model that has been trained on a large dataset of images or videos. Ideally, the pre-trained model should be designed for video analysis, such as the Two-Stream Convolutional Neural Network or the Temporal Segment Network.
 
-	Model customization: Remove the last few layers of the pre-trained model and replace them with new layers that are designed for the specific task of violence detection. Freeze the weights of the pre-trained layers and only train the weights of the new layers. This process is known as fine-tuning.
+Model customization: Remove the last few layers of the pre-trained model and replace them with new layers that are designed for the specific task of violence detection. Freeze the weights of the pre-trained layers and only train the weights of the new layers. This process is known as fine-tuning.
 
-	Model training: Train the customized model on the pre-processed dataset. The model should have multiple convolutional layers followed by pooling and activation functions. The output of the final layer should be a binary classification of violence or non-violence.
+Model training: Train the customized model on the pre-processed dataset. The model should have multiple convolutional layers followed by pooling and activation functions. The output of the final layer should be a binary classification of violence or non-violence.
 
-# Why oneAPI:
+# Why oneAPI  
 	
 oneAPI is an open, unified programming model developed by Intel that simplifies development of high-performance applications across different hardware architectures. It provides a single cross-architecture programming model based on industry standards like C++ and SYCL, and includes a set of programming tools and libraries such as compilers, performance libraries, and analysis tools. oneAPI can be applied to various industries including HPC, AI/ML, media and entertainment, finance, and healthcare, where high-performance computing and parallel processing are needed.
 
