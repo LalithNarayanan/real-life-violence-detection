@@ -1,13 +1,11 @@
 # Fake-Currency-Detection-using-AI-ML
 
-![image](https://images.pexels.com/photos/47344/dollar-currency-money-us-dollar-47344.jpeg?auto=compress&cs=tinysrgb&w=600)
+![image](https://upload.wikimedia.org/wikipedia/en/1/18/Will_Smith_slaps_Chris_Rock.jpg)
 
-# Inspiration <img src="https://user-images.githubusercontent.com/72274851/222214323-923a3fe7-56e9-4ba0-abff-162681500702.png" width="60" height="60"> 
-Machine learning has revolutionized the way we approach problems and has opened up new possibilities for solving complex issues. One such problem is the detection of fake notes, which has been an ongoing challenge for financial institutions and businesses.
-It is possible to train models that can precisely predict the veracity of banknotes using machine learning. These algorithms can learn to recognise patterns and features that separate authentic notes from fakes by training them on vast datasets of both real and counterfeit notes. The way we approach challenges has been transformed by machine learning, which has also created new opportunities for resolving challenging problems. The detection of counterfeit notes is one such issue, which has been a persistent difficulty for businesses and financial institutions.
+# Inspiration: <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/inspiration.png" width="60" height="60"> 
+Machine learning is evloving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
 
-
-# What it does  <img src="(https://user-images.githubusercontent.com/72274851/222216353-58874ba5-d9cc-4298-baab-4255bbdb0193.png" width="60" height="60">  
+# Methodology: <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/solution.png" width="60" height="60">  
 
 This project aims to develop a machine learning model to predict the authenticity of banknotes. The model uses features such as variance, skewness, kurtosis, and entropy of wavelet-transformed images of the banknotes. The target value is 0 for real banknotes and 1 for fake banknotes.
 
