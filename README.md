@@ -32,15 +32,17 @@ Remove the last few layers of the pre-trained model and replace them with new la
 ### Model training 
 Train the customized model on the pre-processed dataset. The model should have multiple convolutional layers followed by pooling and activation functions. The output of the final layer should be a binary classification of violence or non-violence.
 
-# Why oneAPI: 
+# Why oneAPI
 
 ![image](https://upload.wikimedia.org/wikipedia/en/f/fa/OneAPI-rgb-3000.png)
 
 oneAPI is an open, unified programming model developed by Intel that simplifies development of high-performance applications across different hardware architectures. It provides a single cross-architecture programming model based on industry standards like C++ and SYCL, and includes a set of programming tools and libraries such as compilers, performance libraries, and analysis tools. oneAPI can be applied to various industries including HPC, AI/ML, media and entertainment, finance, and healthcare, where high-performance computing and parallel processing are needed.
 
+# Result
 
-✅ The result is as shown
-![image](https://user-images.githubusercontent.com/72274851/222212005-75a01710-901f-4f88-9f4d-10e609acd48c.png)
+# Conclusion <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/idea.png" width="60" height="60"> 
+
+Violence detection is an important application of machine learning that can help prevent harm and save lives. By developing a machine learning model to detect violence in videos and in live stream, we can assist emergency services like police, ambulance, fire engine, etc., in identifying potentially dangerous situations.
 
 
 ## Dependencies <img src="https://user-images.githubusercontent.com/72274851/222215296-64d3a566-02c2-4ff9-9b8f-9ec5096f5799.png" width="60" height="60"> 
@@ -48,9 +50,9 @@ This project requires the following dependencies:
 
 ✅ Python 3.7 or higher
 
-✅ Scikit-learn
+✅ keras
 
-✅ XGBoost
+✅ TensorFlow
 
 ✅ Pandas
 
@@ -69,5 +71,3 @@ To run the project, follow these steps:
 - [x] Open a terminal and navigate to the project directory.
 - [x] Run the fake_currency_detection.ipynb Jupyter notebook to train and evaluate the machine learning model.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
