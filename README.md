@@ -1,5 +1,5 @@
 # real-life-violence-detection
-# Introduction  <img src=https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/Dataset.jpeg" width="60" height="60">
+# Introduction  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/Dataset.jpeg" width="60" height="60">
 
 Machine learning is evloving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
 
