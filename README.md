@@ -12,11 +12,8 @@ Violence detection using transfer learning involves using a pre-trained Convolut
 
 # Dataset  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/Dataset.jpeg" width="60" height="60"> 
 
-✅ The dataset used in this project is the Banknote Authentication Dataset from the UCI Machine Learning Repository. 
-✅ It contains 1,372 instances of banknotes, each with five numeric input variables and one binary target variable.
-✅ Use a pairplot to plot it ![image](https://user-images.githubusercontent.com/72274851/222211365-56851fa0-44b4-4a3e-b09c-772935129bb2.png)
-✅ Balanced the dataset ![image](https://user-images.githubusercontent.com/72274851/222211438-2bbab41d-9275-4c6c-9c3b-ec4c182ebe42.png)
-![image](https://user-images.githubusercontent.com/72274851/222211493-33f11ebb-25a2-466c-b84e-b95ec801cace.png)
+The dataset used in this project is the ‘Real Life Violence Situations Dataset’  from the Kaggle Repository published by Mohamed Elesawy.
+The dataset contains 1000 Violence and 1000 non-violence videos collected from youtube videos, which includes many real street fights situations in several environments and conditions.
 
 ✅ Used model using intel oneAPI 
 
