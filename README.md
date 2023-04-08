@@ -2,14 +2,15 @@
 
 ![image](https://upload.wikimedia.org/wikipedia/en/1/18/Will_Smith_slaps_Chris_Rock.jpg)
 
-# Inspiration: <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/inspiration.png" width="60" height="60"> 
+# Inspiration <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/inspiration.png" width="60" height="60"> 
 Machine learning is evloving day by day and is solving many real life problems that are life changing. One such application is violence detection which uses machine learning model trained with lots of videos including violence to detect violence in live stream and/or in pre-recorded video. Violence detection includes detection of physical beating, stabbing, robbery, firing of gun, riot, hijack, terrorist attack, etc. 
 
-# Methodology: <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/solution.png" width="60" height="60">  
+# Methodology  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/solution.png" width="60" height="60">  
 
-This project aims to develop a machine learning model to predict the authenticity of banknotes. The model uses features such as variance, skewness, kurtosis, and entropy of wavelet-transformed images of the banknotes. The target value is 0 for real banknotes and 1 for fake banknotes.
+Violence detection using transfer learning involves using a pre-trained Convolutional Neural Network (CNN) on a large dataset, such as ImageNet, and re-purposing it for the task of violence detection. The methodology involves fine-tuning the pre-trained model on a smaller dataset of violent and non-violent videos, and then testing the model on new, unseen videos. Transfer learning can significantly reduce the time and resources required for model training, as it leverages the pre-existing knowledge of the pre-trained CNN.
 
-## How i made it <img src="https://user-images.githubusercontent.com/72274851/222215141-6ced575e-414b-4088-bd99-d78921f80f66.png" width="60" height="60"> 
+
+# Dataset  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/Dataset.jpeg" width="60" height="60"> 
 
 ✅ The dataset used in this project is the Banknote Authentication Dataset from the UCI Machine Learning Repository. 
 ✅ It contains 1,372 instances of banknotes, each with five numeric input variables and one binary target variable.
