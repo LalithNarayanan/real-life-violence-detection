@@ -1,4 +1,4 @@
-# Fake-Currency-Detection-using-AI-ML
+# Real-Life-Violence-Detection-With-oneAPI
 
 ![image](https://upload.wikimedia.org/wikipedia/en/1/18/Will_Smith_slaps_Chris_Rock.jpg)
 
@@ -14,6 +14,23 @@ Violence detection using transfer learning involves using a pre-trained Convolut
 
 The dataset used in this project is the ‘Real Life Violence Situations Dataset’  from the Kaggle Repository published by Mohamed Elesawy.
 The dataset contains 1000 Violence and 1000 non-violence videos collected from youtube videos, which includes many real street fights situations in several environments and conditions.
+
+# WorkFlow  <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/workflow.png" width="60" height="60">
+
+### Dataset collection 
+Gather a dataset of videos containing both violent and non-violent scenes. The dataset should be balanced and diverse, containing videos with differentlighting conditions, camera angles, and types of violence.
+
+### Data pre-processing 
+Convert the videos to a suitable format and resize them to a fixed resolution. Extract individual frames from the videos and create a dataset of images. Apply pre-processing techniques such as normalization, resizing, and augmentation to improve the performance of the transfer learning model.
+
+### Selecting a pre-trained model 
+Choose a pre-trained model that has been trained on a large dataset of images or videos. Ideally, the pre-trained model should be designed for video analysis, such as the Two-Stream Convolutional Neural Network or the Temporal Segment Network.
+
+### Model customization 
+Remove the last few layers of the pre-trained model and replace them with new layers that are designed for the specific task of violence detection. Freeze the weights of the pre-trained layers and only train the weights of the new layers. This process is known as fine-tuning.
+
+### Model training 
+Train the customized model on the pre-processed dataset. The model should have multiple convolutional layers followed by pooling and activation functions. The output of the final layer should be a binary classification of violence or non-violence.
 
 ✅ Used model using intel oneAPI 
 
