@@ -32,9 +32,12 @@ Remove the last few layers of the pre-trained model and replace them with new la
 ### Model training 
 Train the customized model on the pre-processed dataset. The model should have multiple convolutional layers followed by pooling and activation functions. The output of the final layer should be a binary classification of violence or non-violence.
 
-✅ Used model using intel oneAPI 
+# Why oneAPI: 
 
-![image](https://user-images.githubusercontent.com/72274851/218504609-585bcebe-5101-4477-bdd2-3a1ba13a64a8.png)
+![image](https://upload.wikimedia.org/wikipedia/en/f/fa/OneAPI-rgb-3000.png)
+
+oneAPI is an open, unified programming model developed by Intel that simplifies development of high-performance applications across different hardware architectures. It provides a single cross-architecture programming model based on industry standards like C++ and SYCL, and includes a set of programming tools and libraries such as compilers, performance libraries, and analysis tools. oneAPI can be applied to various industries including HPC, AI/ML, media and entertainment, finance, and healthcare, where high-performance computing and parallel processing are needed.
+
 
 ✅ The result is as shown
 ![image](https://user-images.githubusercontent.com/72274851/222212005-75a01710-901f-4f88-9f4d-10e609acd48c.png)
