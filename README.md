@@ -49,6 +49,8 @@ oneAPI is an open, unified programming model developed by Intel that simplifies 
 
 ![image](https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/output2.png)
 
+Video Output:https://drive.google.com/file/d/1WyRgDdN1oaRV2nw6imnE-E_cdacSH5x7/view?usp=sharing
+
 # Conclusion <img src="https://github.com/LalithNarayanan/real-life-violence-detection/blob/main/Icons/idea.png" width="60" height="60"> 
 
 Violence detection is an important application of machine learning that can help prevent harm and save lives. By developing a machine learning model to detect violence in videos and in live stream, we can assist emergency services like police, ambulance, fire engine, etc., in identifying potentially dangerous situations.
